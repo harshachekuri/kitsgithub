@@ -14,7 +14,7 @@ markdown
 Strings
 
 CLASS_1
-https://transcripts.gotomeeting.com/#/s/ac640c66274e2bee0405958e53e0ae787e8fc4afb11ca279edb36467e3ba7429
+https://transcripts.gotomeeting.com/#/s/dca7707d6b5f911ebe4be2c6a25cc91ef93a721dcc07b46bdb6e0d1dca0d9165
 
 
 CLASS_2

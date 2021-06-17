@@ -1,19 +1,19 @@
 # kitsgithub
 
-# Harsha Vardhan😎
+Harsha Vardhan😎
 
 # Click below to download movies 😉
 
 https://ww3.ibomma.org/
 
-# 👆👆👆👆👆👆👆👆👆👆👆
+👆👆👆👆👆👆👆👆👆👆👆
 
 
 # APSSDC 
 
-# markdown
+markdown
 
-# Strings
+Strings
 
 # APSSDC PYTHON RECORDING CLASSES
 

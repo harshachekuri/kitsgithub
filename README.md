@@ -16,6 +16,10 @@ markdown
 
 Strings
 
+List
+
+Tuple 
+
 # APSSDC PYTHON RECORDING CLASSES
 
 # CLASS_1

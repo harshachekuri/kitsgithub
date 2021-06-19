@@ -11,14 +11,9 @@ https://ww3.ibomma.org/
 
 
 # APSSDC
-
-markdown
-
-Strings
-
-List
-
-Tuple 
+ 
+markdown,string,list,tuple, dictionary,sets
+,Functions
 
 # APSSDC PYTHON RECORDING CLASSES
 

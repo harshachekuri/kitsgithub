@@ -35,4 +35,7 @@ https://transcripts.gotomeeting.com/#/s/ac640c66274e2bee0405958e53e0ae787e8fc4af
 https://transcripts.gotomeeting.com/#/s/4e5f7d5cc172645780a17f65fd2d8b8bdbb9c948f5e5f6908629c01b6d82b360
 
 # CLASS_5
+https://transcripts.gotomeeting.com/#/s/4ab721f9ee021e3d29eec38811cc8c1b29e376a29bdfe159239443ea7aeebb7d
+
+# CLASS_6
 

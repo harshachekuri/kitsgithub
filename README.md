@@ -31,3 +31,8 @@ https://transcripts.gotomeeting.com/#/s/652882a0dc4eec0af94a9f2146da8498c953315e
 # CLASS_3
 https://transcripts.gotomeeting.com/#/s/ac640c66274e2bee0405958e53e0ae787e8fc4afb11ca279edb36467e3ba7429
 
+# CLASS_4
+https://transcripts.gotomeeting.com/#/s/4e5f7d5cc172645780a17f65fd2d8b8bdbb9c948f5e5f6908629c01b6d82b360
+
+# CLASS_5
+

@@ -10,10 +10,13 @@ https://ww3.ibomma.org/
 👆👆👆👆👆👆👆👆👆👆
 
 
-# APSSDC
+# APSSDC (topics)
  
-markdown,data types, type casting,string,list,tuple, dictionary,sets
-,Functions,
+markdown ,data types ,type casting ,
+string ,list ,tuple , dictionary ,
+sets, Functions, recursive functions,
+list comprehension, python modules & package
+
 
 # APSSDC PYTHON RECORDING CLASSES
 
@@ -27,5 +30,4 @@ https://transcripts.gotomeeting.com/#/s/652882a0dc4eec0af94a9f2146da8498c953315e
 
 # CLASS_3
 https://transcripts.gotomeeting.com/#/s/ac640c66274e2bee0405958e53e0ae787e8fc4afb11ca279edb36467e3ba7429
-
 

@@ -15,7 +15,8 @@ https://ww3.ibomma.org/
 markdown ,data types ,type casting ,
 string ,list ,tuple , dictionary ,
 sets, Functions, recursive functions,
-list comprehension, python modules & package
+list comprehension, python modules & package ,
+files
 
 
 # APSSDC PYTHON RECORDING CLASSES

@@ -19,7 +19,7 @@ markdown ,data types ,type casting ,
 string ,list ,tuple , dictionary ,
 sets, Functions, recursive functions,
 list comprehension, python modules & package ,
-files, python pop's, 
+files, python oop's, 
 
 
 # APSSDC PYTHON RECORDING CLASSES

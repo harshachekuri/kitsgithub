@@ -40,3 +40,6 @@ https://transcripts.gotomeeting.com/#/s/4ab721f9ee021e3d29eec38811cc8c1b29e376a2
 
 # CLASS_6
 https://transcripts.gotomeeting.com/#/s/30a68b93e191f38b1bbd7cf6001c07d01b681bf2658955b73394d5a630ff002c
+
+# CLASS_7
+https://transcripts.gotomeeting.com/#/s/1250a41fd4798b0acd597ba847f2d8788cecd9bb41c4dc81bb11a197248906a2

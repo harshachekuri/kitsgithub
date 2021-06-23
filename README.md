@@ -9,6 +9,9 @@ https://ww3.ibomma.org/
 
 👆👆👆👆👆👆👆👆👆👆
 
+Textfiles from 1 to 7 are of class-7
+
+Module.py is python file is of class-8
 
 # APSSDC (topics)
  

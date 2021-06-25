@@ -52,4 +52,10 @@ expression, numpy,
 
 [Link-2](https://transcripts.gotomeeting.com/#/s/8f46293f37547185c0e94b63b1100ca217acc1b311a4ca8dab2c3c3fd926d056)
 
-[Link-3]()
+[Link-3](https://transcripts.gotomeeting.com/#/s/f0bb8904dff4bdd20de79c2b04c9f536d858f8b7e910574da290731eabc8b539)
+
+# CLASS_10
+[Link]()
+
+# CLASS_11
+[Link]()

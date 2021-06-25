@@ -50,6 +50,6 @@ expression, numpy,
 # CLASS_9
 [Link-1](https://transcripts.gotomeeting.com/#/s/e69d3d2529f12656eeff5082b17cd6f7b1bec31a5f72f309117acba92f78b2c7)
 
-[Link-2]()
+[Link-2](https://transcripts.gotomeeting.com/#/s/8f46293f37547185c0e94b63b1100ca217acc1b311a4ca8dab2c3c3fd926d056)
 
 [Link-3]()

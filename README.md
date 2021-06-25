@@ -55,7 +55,7 @@ expression, numpy,
 [Link-3](https://transcripts.gotomeeting.com/#/s/f0bb8904dff4bdd20de79c2b04c9f536d858f8b7e910574da290731eabc8b539)
 
 # CLASS_10
-[Link]()
+[Link](https://transcripts.gotomeeting.com/#/s/14cc068c8ff014af7cffe114ac73e0c339f02bdaec634820367fa9b6ebd7143a)
 
 # CLASS_11
 [Link]()

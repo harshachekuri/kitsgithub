@@ -48,6 +48,8 @@ expression, numpy,
 [Link](https://transcripts.gotomeeting.com/#/s/ee7d1ab2c981cbc68d9f1628bad82e9f9f8e7e93fbd4f62438ec7a0c3dd535c7)
 
 # CLASS_9
-[Link-1]()
+[Link-1](https://transcripts.gotomeeting.com/#/s/e69d3d2529f12656eeff5082b17cd6f7b1bec31a5f72f309117acba92f78b2c7)
+
 [Link-2]()
+
 [Link-3]()

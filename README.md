@@ -11,6 +11,8 @@ Textfiles from 1 to 6 are of class-7
 
 Module.py,class1.py are python files of class-8
 
+Ksrcs.csv is Google sheet of pandas of class-10
+
 # APSSDC (topics)
  
 markdown ,data types ,type casting ,
@@ -19,7 +21,7 @@ sets, Functions, recursive functions,
 list comprehension, python modules & package ,
 files, python oop's, filter, regular 
 expression, numpy, pandas, Python iterators
-And generators
+And generators.....
 
 
 # APSSDC PYTHON RECORDING CLASSES

@@ -18,7 +18,8 @@ string ,list ,tuple , dictionary ,
 sets, Functions, recursive functions,
 list comprehension, python modules & package ,
 files, python oop's, filter, regular 
-expression, numpy, 
+expression, numpy, pandas, Python iterators
+And generators
 
 
 # APSSDC PYTHON RECORDING CLASSES
@@ -61,4 +62,4 @@ expression, numpy,
 [Link](https://transcripts.gotomeeting.com/#/s/633518f09f95761842a50abaa7a2a0ebe9767d7dba508eb79aa34d1720937a11)
 
 # CLASS_12
-[Link]()
+[Link](https://transcripts.gotomeeting.com/#/s/70c29605ceacb0e24b997cd19904678140f992a9874a53d59b2f3f9b5f2b044b)
